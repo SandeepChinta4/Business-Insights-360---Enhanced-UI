@@ -6,6 +6,8 @@ With rapid expansion driving its strategy, AtliQ Hardware has chosen to implemen
 
 [Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiYzVkMTMzNGYtNDMwZi00Zjk1LTlhMDAtZGViZjcxYTE3M2Q1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
+[Previous Design - GitHub](https://github.com/SandeepChinta4/Business-Insights-360)
+
 ## Tech Stack
 
 - SQL
